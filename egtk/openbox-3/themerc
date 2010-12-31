@@ -53,13 +53,13 @@ menu.border.width: 1
 menu.title.text.color: #4d4d4d
 
 menu.items.bg: flat solid
-menu.items.bg.color: #d9d9d9
-menu.border.color: #828282
+menu.items.bg.color: #dedede
+menu.border.color: #858585
 
-menu.items.text.color: #4f4f4f
-menu.items.disabled.text.color: #999
+menu.items.text.color: #4e4e52
+menu.items.disabled.text.color: #9c9d9f
  
-menu.items.active.bg: Flat border splitvertical gradient
+menu.items.active.bg: flat border splitvertical gradient
 menu.items.active.bg.color: #A5C0D7
 menu.items.active.bg.color.SplitTo: #B5CCE0
 menu.items.active.bg.colorTo: #9FBBD3
