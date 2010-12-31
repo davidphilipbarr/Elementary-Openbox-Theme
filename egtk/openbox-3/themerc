@@ -11,7 +11,6 @@ window.*.client.color: #D6D6D6
 *.text.justify: center
 
 !# Set *all* fonts here
-
 menu.items.font:shadow=y:shadowtint=-15:shadowoffset=2
 window.active.label.text.font:shadow=y:shadowtint=-100:shadowoffset=1
 window.inactive.label.text.font:shadow=y:shadowtint=-10:shadowoffset=1
@@ -49,9 +48,7 @@ osd.*.bg.shadow:    10
 !# The main theme stuff now we are ready
 
 !# Menu
-
 !# this matches the gtk them, that is all.
-
 menu.border.width: 1
 menu.title.text.color: #4d4d4d
 
@@ -73,14 +70,12 @@ menu.items.active.bg.border.color: #5B768D
 menu.separator.width: 1
 menu.separator.padding.width: 6
 menu.separator.padding.height: 3
+!# shadow sort of missing?
 menu.separator.color: #bababa
 
-
 !# Active Windows.
-
 window.*.border.color: #939393
 window.*.title.separator.color: #DEDEDE
-
 !#
 *.title.bg: raised vertical gradient
 *.title.bg.color: #ECECEC
@@ -119,7 +114,7 @@ window.inactive.button.hover.bg.color: #606060
 #window.inactive.handle.bg.color: #cecece
 #window.*.grip.bg: parentrelative
 
-!# osd (On Screen Display)
+!# On Screen Display stuff
 
 osd.border.width: 1
 osd.border.color:  #808080
