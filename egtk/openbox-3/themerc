@@ -118,7 +118,7 @@ window.inactive.button.hover.bg.color: #606060
 !# On Screen Display stuff
 
 osd.border.width: 1
-osd.border.color:  #666666
+osd.border.color:  #939393
 
 osd.bg: flat vertical gradient
 osd.bg.color: #ffffff
