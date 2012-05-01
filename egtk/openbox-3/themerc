@@ -1,6 +1,6 @@
 !# General
-padding.width: 4
-padding.height: 2
+padding.width: 5
+padding.height: 3
 window.handle.width:0
 border.Width: 1
 window.client.padding.width: 0
@@ -74,16 +74,16 @@ menu.separator.padding.height: 3
 menu.separator.color: #bababa
 
 !# Active Windows.
-window.*.border.color: #939393
-window.*.title.separator.color: #DEDEDE
+window.*.border.color: #7c7c7c
+window.*.title.separator.color: #dddddd
 !#
 *.title.bg: raised vertical gradient
-*.title.bg.color: #ECECEC
-*.title.bg.colorTo: #DEDEDE
+*.title.bg.color: #eeeeee
+*.title.bg.colorTo: #dddddd
 window.*.label.bg: parentrelative
 
 #window.active.label.text.color: #6D6D71
-window.active.label.text.color: #6f6f6f
+window.active.label.text.color: #696969
 window.active.button.*.bg: parentrelative
 
 window.active.button.*.image.color: #A1A1A1
